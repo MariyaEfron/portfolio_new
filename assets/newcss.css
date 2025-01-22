@@ -768,6 +768,10 @@ img {
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
 }
+.mail_a_tag {
+  text-decoration: none;
+  color: var(--text-color-light);
+}
 
 .contact__subtitle {
   font-size: var(--small-font-size);
