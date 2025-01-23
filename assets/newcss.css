@@ -543,7 +543,7 @@ img {
   transform: rotate(-180deg);
 }
 
-/*==================== Qualifications ====================*/
+/* Qualification */
 
 .qualification__tabs {
   display: flex;
@@ -615,7 +615,7 @@ img {
   color: var(--first-color);
 }
 
-/*================= Services ==================*/
+/* Services */
 
 .services_container {
   gap: 1.5rem;
@@ -695,7 +695,7 @@ img {
   visibility: visible;
 }
 
-/*================== Portfolio ==================*/
+/* Portfolio */
 
 .portfolio__container {
   overflow: initial;
@@ -747,7 +747,7 @@ img {
   outline: none;
 }
 
-/*================ Contact Me ===============*/
+/* Contact Me */
 
 .contact__container {
   row-gap: 2rem;
@@ -798,7 +798,7 @@ img {
   padding: 0.25rem 0.5rem 0.5rem 0;
 }
 
-/*=================== Footer ==================*/
+/* Footer */
 
 .footer {
   padding-top: 2rem;
